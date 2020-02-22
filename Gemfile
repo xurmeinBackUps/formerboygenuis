@@ -62,6 +62,5 @@ gem 'actioncable'
 # gem 'devise'
 gem 'faker'
 gem 'jwt'
-gem
 gem 'rspec'
 gem 'rspec-rails'
