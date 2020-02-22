@@ -55,5 +55,8 @@ gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 
 # added gems
 gem 'actioncable'
+gem 'devise'
 gem 'faker'
+gem 'jwt'
 gem 'rspec'
+gem 'rspec-rails'
